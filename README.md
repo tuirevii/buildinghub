@@ -8,6 +8,8 @@ Enhancing UX in the Building Renovation Process Through Experience-Driven Design
 - **Client:** INPERSO project (Spain)
 - **Course:** "HTI.450 User Experience: Design and Evaluation", Tampere University
 
+[See the prototype (Figma)](https://www.figma.com/proto/54YU82HEN1ZYTxEPH5jk9A/No-name-squad?page-id=0%3A1&type=design&node-id=428-7289&viewport=-269%2C-5900%2C0.41&t=CcCLtn2zvmHA5umS-1&scaling=scale-down-width&starting-point-node-id=428%3A7289&show-proto-sidebar=1)
+
 
 ![Mockups of the BuildingHub web service](https://github.com/user-attachments/assets/20aeb0ff-d4b6-4a17-8e11-cd0bb39b238e)
 
@@ -119,7 +121,7 @@ These experience goals reflected only the experiences of the residents during th
 
 The concept for the prototype was a **digital platform (web service)** that would be responsive and accessible through the internet from a web browser especially on a laptop, reducing the need for any specific system or device compatibility. The features of the prototype were ideated and designed based on the insights gathered from the user study. The user study had revealed that the users wouldn't like to use this kind of system with their mobile phones, but instead would use their computers. Therefore and due to the scope of the course, we focused on designing the prototype for the desktop.
 
-[Take a look at the prototype on Figma](https://tinyurl.com/buildinghub) 
+[Take a look at the prototype on Figma](https://www.figma.com/proto/54YU82HEN1ZYTxEPH5jk9A/No-name-squad?page-id=0%3A1&type=design&node-id=428-7289&viewport=-269%2C-5900%2C0.41&t=CcCLtn2zvmHA5umS-1&scaling=scale-down-width&starting-point-node-id=428%3A7289&show-proto-sidebar=1) 
 
 **NOTE:** To see the initial prototype that was evaluated, open the “Flows” sidebar and select “Initial prototype”. To see the iterated prototype, select “Iterated prototype”.
 
