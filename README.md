@@ -138,14 +138,7 @@ The concept for the prototype was a **digital platform (web service)** that woul
 - Aged 35-51
 - Mainly not that tech-savvy
 
-### Main Findings
-
-- It’s really hard to mention even the main findings, as this was such a large project. However, everything is mentioned in our project’s final report.
-
-[Read our final report (PDF)](https://drive.google.com/file/d/1mufkxkx_Ae6nz8xjWxhkFpgh1lAlpGjT/view?usp=sharing)
-
-
-## Prototype Iteration
+## Prototype Iteration Base on the Findings
 
 - Focus on fulfilling one of the UX goals, trust. 
 - Changes to the company card (information about the working area, prices, and starting schedule, and more comprehensive reviews).
@@ -160,7 +153,53 @@ The concept for the prototype was a **digital platform (web service)** that woul
 ![Näyttökuva 2024-12-10 222311](https://github.com/user-attachments/assets/745218fa-c553-4848-9e03-afab16b06912)
 ![Näyttökuva 2024-12-10 221857](https://github.com/user-attachments/assets/a5a14260-9035-4bd9-8338-fc9909029a7c)
 
+### Main Findings
 
-## Learnings and Future Work
+- Our resource constraints affected the overall results of the project, as we were probably not able to meet all the needs and expectations of the person working on the INPERSO project.
+  - We tried to get insights on, for example, how to make renovation projects more community-driven, but we couldn’t answer this one.
+  - The main reason for this was the fact that our participants didn’t have that much experience of renovations, and especially of big renovations like deep renovations.
+  - Sustainability-related aspects were also a big theme, but it became obvious, that in Finland that’s usually not the thing people focus on the most in renovations, even though some are more environmentally conscious.
+- A more high-fidelity version of the prototype would have been needed, as now the participants' expectations were quite high even though we tried to lower them, which may affect the validity of the results.
+- Of the UX goals, trust, and the feeling of being informed were the easiest ones to measure
+- Relief and security could have been measured better with a more defined prototype that would focus also on the latter part of the renovation
+- The biggest success of this project was the validation that this kind of service can be useful when implemented correctly.
 
-- Will be added here later
+> P3: It would've been just what I really really was missing when we had the renovation!
+
+> P3: This would be like really really something that would help, help people, and I really hope that companies are gonna commit using this if it's something that gets done.
+
+- It would be very useful to have a platform where the different stakeholders could have an easy way of communicating with each other. Many contractors use different kinds of ERP systems (or other internally used systems), but they never or very rarely give access to other stakeholders. Therefore enough information useful and accurate may not be easily available and in an understandable format.
+- The navigation should be very easy so that anyone can find what they are looking for.
+- The service should look more consumer-friendly and beautiful to increase engagement especially in the beginning of the use
+## Limitations
+
+- Lack of people with enough experience with renovation projects.
+- Limited now only to resident's needs because the scope of the project would have been far too large otherwise
+- This also diminished some of the data collected during different parts.
+- The results cannot be generalized to other user groups or directly to other countries because of cultural issues, for example.
+- It could have been more useful to concentrate just on the before and during phases of the renovation project, or first just on one of those.
+- Even if we had a more fleshed-out prototype, the information gathering for these goals could only be done properly in a large time frame study. 
+- Lack of knowledge of Finnish laws and renovation and house building business
+- Would need a multi-professional team to get a better understanding of user needs
+- The prototype doesn’t consider any possible limitations related to the numerous software components that should be integrated with the system.
+- It remains uncertain whether actual construction workers would willingly adopt this system, as they generally do not put any extra effort into communication or using additional systems.
+- Language barriers affected the participants’ understanding of some questions and instructions as well as navigating the system.
+- Having the prototype and evaluation sessions in Finnish, the results might have been a lot more comprehensive and reliable.
+- The UX goals couldn’t be evaluated properly especially due to lack of some important interactions.
+- A more polished prototype with all the interactions needed to make it work the way it’s supposed to, would most probably have given different kinds of results.
+  
+## Future Work
+
+- Not all the ideas based on the user study and prototype evaluation could be implemented or even analyzed in the scope of this course.
+  - For example, integrations with different ERP software to make the use of BuildingHub more plausible for the contractors, and more detailed information about the contractors and their financial situation.
+- The project dashboard should
+  - show more clearly what tasks and meetings need residents’ input, and a better timeline should be considered and designed carefully to increase the level of relief
+  - be made adjustable to everyone’s needs, so that it would include the most relevant information needed.
+- A feedback system should be implemented.
+  - Should be used both during and after the renovation, and the feedback form would also need to include information about how well the company used BuildingHub for communication. 
+- The prototype should also serve better in the after phase of the renovation.
+- The prototype should also have to meet the needs of other stakeholders of building renovation projects, especially construction companies and their actual employees and subcontractors who do the renovations.
+  - Requires more user studies, evaluation, and iteration, and experience goals for those parties would also need to be defined and validated, as they may also differ at least partly from the ones we had for residents.
+- It should be carefully thought out how to engage companies to use BuildingHub.
+- To further develop the design, the evaluation tasks of the reiterated prototype about the UX goals would be formulated from prior or existing methods known to be relevant.
+- A heuristic analysis based on Jacob Nielsen’s 10 usability heuristics would also be useful for the prototype.
