@@ -126,8 +126,26 @@ The concept for the prototype was a **digital platform (web service)** that woul
 **NOTE:** To see the initial prototype that was evaluated, open the “Flows” sidebar and select “Initial prototype”. To see the iterated prototype, select “Iterated prototype”.
 
 ### Some of the Frames I Designed for the MVP
+#### Landing page
+![Landing page - Tuire](https://github.com/user-attachments/assets/e8fff931-a725-43a5-a4e6-8625da1da9d7)
 
-- Will be added here later
+#### Identification
+![Identification - Tuire](https://github.com/user-attachments/assets/4f7fcb62-25d0-4115-911b-14dedf777bc4)
+
+#### Verification code
+![Verification code - Tuire](https://github.com/user-attachments/assets/57a2c3f4-ef49-450c-971a-4253dd8a0074)
+
+#### Sign-up
+![Sign-up - Tuire](https://github.com/user-attachments/assets/b877f857-8786-42c1-b648-32cadf9b7e3a)
+
+#### Companies
+![Companies page - Tuire](https://github.com/user-attachments/assets/b56cf580-5966-408c-8e76-538e0e88d68b)
+
+#### Company card
+![Company pop-up - Tuire](https://github.com/user-attachments/assets/878b3cd2-8868-4d78-8316-72f274b91b87)
+
+#### Offering
+![Offering](https://github.com/user-attachments/assets/65b61223-a453-4ee2-93e4-94b6440baa65)
 
 
 ## Prototype Evaluation
@@ -148,10 +166,20 @@ The concept for the prototype was a **digital platform (web service)** that woul
 
 ### Some of the Frames I Designed or Iterated After the Evaluation
 
-- More will be added here later
+#### Dashboard - no projects
+![Main page - don't have project](https://github.com/user-attachments/assets/e9378ada-82d7-47a2-812e-ece46d462c65)
 
-![Näyttökuva 2024-12-10 222311](https://github.com/user-attachments/assets/745218fa-c553-4848-9e03-afab16b06912)
-![Näyttökuva 2024-12-10 221857](https://github.com/user-attachments/assets/a5a14260-9035-4bd9-8338-fc9909029a7c)
+#### Sign-up
+![Sign-up - Tuire](https://github.com/user-attachments/assets/3dab00ca-aabd-4f32-8b38-ae3cf2447769)
+
+#### Verification code
+![Verification code - Tuire](https://github.com/user-attachments/assets/44e21a77-fcb7-4c97-83ec-433151e212d7)
+
+#### Company card
+![Company pop-up - Tuire](https://github.com/user-attachments/assets/33e377c9-54a6-4726-b379-f99e7c0e941e)
+
+#### Reviews
+![All reviews](https://github.com/user-attachments/assets/04175df5-4816-4bfe-8503-d3e8ccf3e66a)
 
 ### Main Findings
 
@@ -171,6 +199,7 @@ The concept for the prototype was a **digital platform (web service)** that woul
 - It would be very useful to have a platform where the different stakeholders could have an easy way of communicating with each other. Many contractors use different kinds of ERP systems (or other internally used systems), but they never or very rarely give access to other stakeholders. Therefore enough information useful and accurate may not be easily available and in an understandable format.
 - The navigation should be very easy so that anyone can find what they are looking for.
 - The service should look more consumer-friendly and beautiful to increase engagement especially in the beginning of the use
+  
 ## Limitations
 
 - Lack of people with enough experience with renovation projects.
